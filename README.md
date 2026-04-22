@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Daniel+Donda+%F0%9F%91%BE;Cybersecurity+Specialist+%F0%9F%94%90;Penetration+Tester+%F0%9F%92%BB;CTF+Player+%26+Security+Researcher+%F0%9F%9A%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Daniel+Donda+%F0%9F%91%BE;Cybersecurity+Specialist+%F0%9F%94%90;DFIR+%26+Cyber+Defense+%F0%9F%9B%A1%EF%B8%8F;Threat+Intelligence+%26+Hunting+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br/>
 
@@ -22,9 +22,9 @@
 
   Name    : Daniel Donda
   Role    : Cybersecurity Specialist
-  Focus   : Cyber Defense | Threat Intelligence | Pentesting
+  Focus   : DFIR | Cyber Defense | Threat Intelligence | Threat Hunting
   Status  : 🔴 Working on secret cyber defense project...
-  Learning: Shell Script & Advanced Red Team Techniques
+  Learning: Shell Script & Advanced Threat Hunting Techniques
   Contact : https://danieldonda.com
 ```
 
@@ -34,23 +34,25 @@
 
 <div align="center">
 
-### 🔴 Offensive Security
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+### 🔵 DFIR & Cyber Defense
+![Autopsy](https://img.shields.io/badge/Autopsy-00599C?style=for-the-badge&logo=autopsy&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-2D2D2D?style=for-the-badge&logo=volatility&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-FF6600?style=for-the-badge&logo=velociraptor&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-FFCC00?style=for-the-badge&logo=thehive&logoColor=black)
 
-### 🔵 Defensive Security
+### 🎯 Threat Intelligence & Hunting
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-FF0000?style=for-the-badge&logo=security&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-FF6600?style=for-the-badge&logo=cisco&logoColor=white)
+![OpenCTI](https://img.shields.io/badge/OpenCTI-4A154B?style=for-the-badge&logo=opencti&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-228B22?style=for-the-badge&logo=yara&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma-003366?style=for-the-badge&logo=sigma&logoColor=white)
 
 ### 💻 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -67,25 +69,8 @@
 ```
 [████████████░░░░░░░░] 60% — 🔐 Secret Cyber Defense Project
 [████████░░░░░░░░░░░░] 40% — 🐚 Mastering Shell Scripting
-[██████████████░░░░░░] 70% — 📖 Security Research & CTF
+[██████████████░░░░░░] 70% — 📖 Writing my Cyber Threat Hunting Book
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieldonda&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldonda&layout=compact&langs_count=7&theme=matrix&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=danieldonda&theme=matrix&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -93,9 +78,11 @@
 
 | 🎖️ Certification | 🏢 Issuer | 📅 Status |
 |---|---|---|
-| 🛡️ Cybersecurity Specialist | — | ✅ Active |
-| 🔐 Security Research | — | ✅ Active |
-| 💻 Penetration Testing | — | 🔄 In Progress |
+| 🏅 Microsoft MVP | Microsoft | ✅ Active |
+| 🔐 CISSP – Certified Information Systems Security Professional | ISC2 | ✅ Active |
+| 🛡️ Security+ | CompTIA | ✅ Active |
+| 🎯 CySA+ – Cybersecurity Analyst | CompTIA | ✅ Active |
+| ⚠️ CEH – Certified Ethical Hacker | EC-Council | ❌ Inactive |
 
 ---
 
